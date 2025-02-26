@@ -1,8 +1,7 @@
-# web-dev-starter
+# M7.2 Lab
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+After being provided the HTML and images, this project was updated to show 
+improvment in the webpage layout with updated CSS.
 
 ## Getting Started
 
